@@ -1,2 +1,3 @@
 hello everyone
-mu name is Allen
+my name is Allen
+I am 24 years old
