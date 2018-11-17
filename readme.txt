@@ -6,4 +6,8 @@ chang something two then has to changes
 o it is amazing
 i like this notepad++
 creating a new branch
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> featurel
