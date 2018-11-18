@@ -11,3 +11,5 @@ this is a new branch  ---xxx,sss
 creat a new branch dev using --no-ff to merge
 git is a free software
 
+----------------------------
+new a dev branch,so can you see it?
