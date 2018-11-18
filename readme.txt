@@ -12,4 +12,5 @@ creat a new branch dev using --no-ff to merge
 git is a free software
 --------------------------------------------------
 i also change this file,there will be a confilct
-there is a line
+-----------------there is a line------------------
+
